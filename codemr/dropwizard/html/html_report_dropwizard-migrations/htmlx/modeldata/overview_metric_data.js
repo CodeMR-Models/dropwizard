@@ -1,0 +1,1 @@
+var CodeMR_ProjectMetrics = {"Project Name":"dropwizard-parent working set: {dropwizard-migrations}", "Number of Highly Problematic Classes":0, "Number of Entities":19, "Number of Problematic Classes":1, "Class Lines of Code":656, "Number of External Packages":25, "Number of Packages":1, "Number of External Entities":60}
